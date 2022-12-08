@@ -15,7 +15,7 @@ Chris Li, CEO of Oak Network, discusses [Rust vs Solidity](https://twitter.com/S
 [Astar Docs](https://docs.astar.network/) are now available in multiple languages (Portuguese, French, Indonesian with more to come in upcoming weeks) - powered by the Astar Community worldwide.
 
 
-[ASTAR NETWORK GITHUB](https://github.com/AstarNetwork))
+[ASTAR NETWORK GITHUB](https://github.com/AstarNetwork)
 
 Astar is the first Polkadot parachain to add light client support. Shiden will also support [Light Clients](https://github.com/polkadot-js/apps/pull/8262/files).
 Also publish guide for users, [HERE](https://medium.com/astar-network/decentralising-astar-with-light-clients-335bb9017546)
