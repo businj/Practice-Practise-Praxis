@@ -17,6 +17,8 @@ Chris Li, CEO of Oak Network, discusses [Rust vs Solidity](https://twitter.com/S
 
 ASTAR TECHNICAL UPDATES
 
+@ASTARNETWORK
+
 Astar is the first Polkadot parachain to add light client support. Shiden will also support [Light Clients](https://github.com/polkadot-js/apps/pull/8262/files).
 Also publish guide for users, [HERE](https://medium.com/astar-network/decentralising-astar-with-light-clients-335bb9017546)
 
