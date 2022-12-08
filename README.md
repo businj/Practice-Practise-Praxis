@@ -19,7 +19,7 @@ ASTAR TECHNICAL UPDATES
 
 Astar submits farming contracts to [wasm-showcase-dapps](https://github.com/AstarNetwork/wasm-showcase-dapps/tree/main/farming).
 
-Astar release [v4.32.0](https://github.com/AstarNetwork/Astar/releases/tag/v4.32.0) introduces XVM prototype v2 into Shibuya runtime. The latest XVM repository, [HERE](https://github.com/AstarNetwork/ink-xvm-sdk).
+Astar release [v4.32.0](https://github.com/AstarNetwork/Astar/releases/tag/v4.32.0) introduces XVM prototype v2 into Shibuya runtime. The latest XVM repository at [ink-xvm-sdk](https://github.com/AstarNetwork/ink-xvm-sdk).
 
 Astar officially releases a Swanky v1. A tool for WASM smart contract developers, with support for integration tests. Swanky CLI can be downloaded via [NPM] (https://www.npmjs.com/package/@astar-network/swanky-cli#usage).
 The latest documentation for Swanky can be found at the following:
