@@ -1,6 +1,6 @@
 # Practice-Practise-Praxis
 
-ASTAR COMMUNITY UPDATES
+[ASTAR](https://astar.network/)
 
 Astar Network has introduced dApp [Staking Portal V2](https://medium.com/astar-network/our-dapp-staking-portal-v2-is-live-d4a1eba0563a), improving user experience to connect with parachain assets and encourage users to support developers through staking.  
 
@@ -15,9 +15,7 @@ Chris Li, CEO of Oak Network, discusses [Rust vs Solidity](https://twitter.com/S
 [Astar Docs](https://docs.astar.network/) are now available in multiple languages (Portuguese, French, Indonesian with more to come in upcoming weeks) - powered by the Astar Community worldwide.
 
 
-ASTAR TECHNICAL UPDATES
-
-@ASTARNETWORK
+[ASTAR GITHUB](https://github.com/AstarNetwork))
 
 Astar is the first Polkadot parachain to add light client support. Shiden will also support [Light Clients](https://github.com/polkadot-js/apps/pull/8262/files).
 Also publish guide for users, [HERE](https://medium.com/astar-network/decentralising-astar-with-light-clients-335bb9017546)
