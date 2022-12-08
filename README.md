@@ -27,7 +27,7 @@ Astar release [v4.32.0](https://github.com/AstarNetwork/Astar/releases/tag/v4.32
 Hoonsubin (Astar CTO) submits [sub0-XVM-workshop](https://github.com/hoonsubin/sub0-xvm-workshop) repo. A demo of controlling EVM ERC20 tokens from a Substrate native account. Repo contains the full project to create a development environment where projects can reside either in EVM with Ethereum signers or WASM contract with Substrate native signers.
 
 Astar officially releases a Swanky v1. A tool for WASM smart contract developers, with support for integration tests. Swanky CLI can be downloaded via [NPM](https://www.npmjs.com/package/@astar-network/swanky-cli#usage).
-The latest documentation for Swanky can be found at the following: [Swanky CLI Github](https://github.com/AstarNetwork/swanky-cli) [Swanky-Node Github](https://github.com/AstarNetwork/swanky-node)
+The latest documentation for Swanky can be found at the following: [Swanky CLI Github](https://github.com/AstarNetwork/swanky-cli) and [Swanky-Node Github](https://github.com/AstarNetwork/swanky-node)
 
 Pull-request merged for [dApp staking on Ledger](https://github.com/LedgerHQ/app-astar/pull/2), for dev mode.
 
