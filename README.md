@@ -1,6 +1,6 @@
 # Practice-Practise-Praxis
 
-[**ASTAR NETWORK**](https://astar.network/)
+[**ASTAR NETWORK**](https://astar.network/) 
 
 Astar Network has introduced dApp [Staking Portal V2](https://medium.com/astar-network/our-dapp-staking-portal-v2-is-live-d4a1eba0563a), improving user experience to connect with parachain assets and encourage users to support developers through staking.  
 
