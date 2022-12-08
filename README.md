@@ -17,20 +17,20 @@ Chris Li, CEO of Oak Network, discusses [Rust vs Solidity](https://twitter.com/S
 
 ASTAR TECHNICAL UPDATES
 
-Astar submits farming contracts to [wasm-showcase-dapps](https://github.com/AstarNetwork/wasm-showcase-dapps/tree/main/farming).
+Astar is the first Polkadot parachain to add light client support. Shiden will also support [Light Clients](https://github.com/polkadot-js/apps/pull/8262/files).
+Also publish guide for users, [HERE](https://medium.com/astar-network/decentralising-astar-with-light-clients-335bb9017546)
+
+Astar submits farming contracts to [wasm-showcase-dapps](https://github.com/AstarNetwork/wasm-showcase-dapps/tree/main/farming). There is a collection of templates to build dApps in WASM.
 
 Astar release [v4.32.0](https://github.com/AstarNetwork/Astar/releases/tag/v4.32.0) introduces XVM prototype v2 into Shibuya runtime. The latest XVM repository at [ink-xvm-sdk](https://github.com/AstarNetwork/ink-xvm-sdk).
 
-Astar officially releases a Swanky v1. A tool for WASM smart contract developers, with support for integration tests. Swanky CLI can be downloaded via [NPM] (https://www.npmjs.com/package/@astar-network/swanky-cli#usage).
+Hoonsubin (Astar CTO) submits [sub0-XVM-workshop](https://github.com/hoonsubin/sub0-xvm-workshop) repo. A demo of controlling EVM ERC20 tokens from a Substrate native account. Repo contains the full project to create a development environment where projects can reside either in EVM with Ethereum signers or WASM contract with Substrate native signers.
+
+Astar officially releases a Swanky v1. A tool for WASM smart contract developers, with support for integration tests. Swanky CLI can be downloaded via [NPM](https://www.npmjs.com/package/@astar-network/swanky-cli#usage).
 The latest documentation for Swanky can be found at the following:
 -[Swanky CLI Github](https://github.com/AstarNetwork/swanky-cli)
 -[Swanky-Node Github](https://github.com/AstarNetwork/swanky-node)
 
-Hoonsubin (Astar CTO) submits [sub0-XVM-workshop](https://github.com/hoonsubin/sub0-xvm-workshop) repo. A demo of controlling EVM ERC20 tokens from a Substrate native account. Repo contains the full project to create a development environment where projects can reside either in EVM with Ethereum signers or WASM contract with Substrate native signers.
-
-Astar is the first Polkadot parachain to add light client support. Shiden will also support [Light Clients](https://github.com/polkadot-js/apps/pull/8262/files).
-Also publish guide for users, [HERE](https://medium.com/astar-network/decentralising-astar-with-light-clients-335bb9017546)
+Pull-request merged for [dApp staking on Ledger](https://github.com/LedgerHQ/app-astar/pull/2), for dev mode.
 
 Entries for Polkadot's LATAM Hackathon Bounties being posted, [HERE](https://github.com/AstarNetwork/AstarBounties/pulls).
-
-Pull-request merged for [dApp staking on Ledger](https://github.com/LedgerHQ/app-astar/pull/2), for dev mode.
