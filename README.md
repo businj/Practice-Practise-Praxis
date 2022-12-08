@@ -10,7 +10,7 @@ Astar invites RoosterDAO and RMRK to [Tech Talk #2](https://www.youtube.com/watc
 
 Astar [Tech Talk #3](https://www.youtube.com/watch?v=1JNNI4G9XS4)  about Building dApps using Astar.js to make building dApps on Astar easier. 
 
-Chris Li, CEO of Oak Network, discusses [Rust vs Solidity](https://twitter.com/Swankywasm/status/1595079636278706177?s=20&t=E7i9sB53lvXgs22Ke_j7Kw) with the Swanky CLI team.
+Chris Li, CEO of Oak Network, discusses [Rust vs Solidity](https://twitter.com/Swankywasm/status/1596186173164380160) with the Swanky CLI team.
 
 [Astar Docs](https://docs.astar.network/) are now available in multiple languages (Portuguese, French, Indonesian with more to come in upcoming weeks) - powered by the Astar Community worldwide.
 
