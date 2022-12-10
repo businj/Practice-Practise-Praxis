@@ -1,20 +1,18 @@
 # Practice-Practise-Praxis
 
-[**ASTAR NETWORK**](https://astar.network/) 
+[**ASTAR NETWORK**](https://astar.network/)
 
 Astar Network has introduced dApp [Staking Portal V2](https://medium.com/astar-network/our-dapp-staking-portal-v2-is-live-d4a1eba0563a), improving user experience to connect with parachain assets and encourage users to support developers through staking.  
 
-Astar invites Covalent to [Tech Talk #1](https://www.youtube.com/watch?v=MRYBg6ptkPw) to demonstrate analyzing on-chain data through Covalent API. 
+Astar invites Covalent to [Tech Talk #1](https://www.youtube.com/watch?v=MRYBg6ptkPw) to demonstrate analyzing on-chain data through Covalent API.
 
 Astar invites RoosterDAO and RMRK to [Tech Talk #2](https://www.youtube.com/watch?v=MRYBg6ptkPw) discussion about using swanky-node to build an ink! contract that interacts with RMRK-pallet functionality to showcase evolving NFTs.  
 
-Astar [Tech Talk #3](https://www.youtube.com/watch?v=1JNNI4G9XS4)  about Building dApps using Astar.js to make building dApps on Astar easier. 
+Astar [Tech Talk #3](https://www.youtube.com/watch?v=1JNNI4G9XS4)  about Building dApps using Astar.js to make building dApps on Astar easier.
 
 Chris Li, CEO of Oak Network, discusses [Rust vs Solidity](https://twitter.com/Swankywasm/status/1596186173164380160) with the Swanky CLI team.
 
 [Astar Docs](https://docs.astar.network/) are now available in multiple languages (Portuguese, French, Indonesian with more to come in upcoming weeks) - powered by the Astar Community worldwide.
-
-
 [**ASTAR NETWORK GITHUB**](https://github.com/AstarNetwork)
 
 Astar is the first Polkadot parachain to add light client support. Shiden will also support [Light Clients](https://github.com/polkadot-js/apps/pull/8262/files).
